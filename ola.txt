@@ -1,1 +1,4 @@
 primeira linha, no git
+segunda linha,no git
+terceira linha,no git
+quarta linha,no git
